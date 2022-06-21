@@ -1,0 +1,5 @@
+site_name: Personal Development Environment
+theme: material
+nav:
+  - Home: README.md
+  - Brewfile: Brewfile

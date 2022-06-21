@@ -1,1 +1,3 @@
-# personal-development-tools
+# Personal Development Environment
+
+## Configuration Management
