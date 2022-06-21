@@ -1,3 +1,3 @@
 # Personal Development Environment
 
-## Configuration Management
+Uses homebrew for tool installation.
