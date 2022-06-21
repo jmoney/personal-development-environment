@@ -13,7 +13,7 @@ brew "ansible"
 brew "python@3.9"
 brew "awscli"
 brew "clamav"
-brew "docker-compose", link: false
+brew "docker-compose"
 brew "ec2-ami-tools"
 brew "gnutls"
 brew "gh"
