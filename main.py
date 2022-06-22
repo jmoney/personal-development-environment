@@ -4,19 +4,6 @@ import os
 def define_env(env):
 
     @env.macro
-    def raw_file(fn: str):
-        docs_dir = env.variables.config['docs_dir']
-        fn = os.path.abspath(os.path.join(docs_dir, fn))
-        if not os.path.exists(fn):
-            return f"""<b>File not found: {fn}</b>"""
-        with open(fn, "r") as f:
-            return (
-                f"""<pre>{html.escape(f.read())}</pre>"""
-            )
-
-
-
-    @env.macro
     def code_from_file(fn: str, flavor: str = ""):
         """
         Load code from a file and save as a preformatted code block.
