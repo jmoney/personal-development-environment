@@ -1,6 +1,7 @@
 site_name: Personal Development Environment
 theme: material
-docs_dir: docs
+docs_dir: environment
+
 nav:
   - Home: index.md
   - Brewfile: Brewfile
