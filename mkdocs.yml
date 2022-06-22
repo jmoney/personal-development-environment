@@ -4,4 +4,7 @@ docs_dir: environment
 
 nav:
   - Home: index.md
-  - Brewfile: Brewfile
+  - Brewfile: brewfile.md
+
+plugins:
+  - macros

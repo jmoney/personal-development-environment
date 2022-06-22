@@ -1,3 +1,1 @@
-# Personal Development Environment
-
-Uses homebrew for tool installation.
+{{external_markdown("../README.md")}}
