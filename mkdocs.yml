@@ -8,3 +8,7 @@ nav:
 
 plugins:
   - macros
+
+theme:
+  features:
+    - navigation.tabs

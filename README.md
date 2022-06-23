@@ -16,4 +16,4 @@ The elgato-stream-deck cask requires rosetta.  To install rosetta `sudo software
 
 ### Github
 
-Need to generate gpg keys for signed commits
+Need to [generate gpg keys](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) for signed commits.
