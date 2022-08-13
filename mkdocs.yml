@@ -3,7 +3,7 @@ docs_dir: environment
 
 nav:
   - Home: index.md
-  - Brewfile: brewfile.txt
+  - Brewfile: Brewfile.txt
 
 plugins:
   - macros
