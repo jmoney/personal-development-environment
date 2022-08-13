@@ -3,10 +3,7 @@ docs_dir: environment
 
 nav:
   - Home: index.md
-  - Brewfile: brewfile.txt
-
-plugins:
-  - macros
+  - Brewfile: Brewfile.txt
 
 theme:
   name: material
