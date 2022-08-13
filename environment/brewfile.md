@@ -1,3 +1,3 @@
 # Brewfile
 
-{{code_from_file("../Brewfile", "ruby")}}
+{{code_from_file("Brewfile.txt", "ruby")}}
