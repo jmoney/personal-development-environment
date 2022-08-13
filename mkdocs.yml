@@ -1,6 +1,4 @@
 site_name: Personal Development Environment
-theme: 
-  name: material
 docs_dir: environment
 
 nav:
@@ -11,5 +9,6 @@ plugins:
   - macros
 
 theme:
+  name: material
   features:
     - navigation.tabs
